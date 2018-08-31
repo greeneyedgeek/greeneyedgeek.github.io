@@ -639,6 +639,14 @@ section#contact .form-group textarea {
   padding: 20px;
 }
 
+input:invalid {
+  border: 5px solid red;
+}
+
+input:valid {
+  border: 5px solid #69f0ae;
+}
+
 section#contact .form-group input.form-control {
   height: auto;
 }
