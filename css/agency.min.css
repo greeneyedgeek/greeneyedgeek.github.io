@@ -44,7 +44,7 @@ section {
 }
 
 section h2.section-heading {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'IBM Plex Sans', sans-serif;
   font-size: 40px;
   text-transform: capitalize;
   margin-top: 0;
