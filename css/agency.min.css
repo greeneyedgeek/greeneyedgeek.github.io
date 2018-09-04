@@ -156,6 +156,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #69f0ae;
+  border-bottom: 4px solid #69f0ae;
 }
 
 #mainNav .nav-primary {
@@ -620,7 +621,7 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../img/map-image.jpg");
+  /*background-image: url("../img/map-image.jpg");*/
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
