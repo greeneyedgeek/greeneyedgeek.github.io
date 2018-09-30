@@ -217,6 +217,7 @@ header.masthead .intro-text .intro-lead-in {
   font-style: italic;
   line-height: 22px;
   margin-bottom: 25px;
+
   font-family: 'IBM Plex Sans Condensed', sans-serif;
 }
 
@@ -224,9 +225,10 @@ header.masthead .intro-text .intro-heading {
   font-size: 50px;
   font-weight: 700;
   line-height: 50px;
+  padding: 1em;
   margin-bottom: 25px;
+  background-color: #21252977;
   font-family:  'IBM Plex Sans',  sans-serif;
-  color: #69f0ae;
 }
 
 @media (min-width: 768px) {
