@@ -226,6 +226,7 @@ header.masthead .intro-text .intro-heading {
   line-height: 50px;
   margin-bottom: 25px;
   font-family:  'IBM Plex Sans',  sans-serif;
+  color: #69f0ae;
 }
 
 @media (min-width: 768px) {
