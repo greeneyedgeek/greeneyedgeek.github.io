@@ -1,4 +1,5 @@
 # My Portfolio
+<img src="https://github.com/greeneyedgeek/greeneyedgeek.github.io/blob/master/home_page.png" alt="" class="mr-2 header-search-key-slash">
 
 ## About
 
